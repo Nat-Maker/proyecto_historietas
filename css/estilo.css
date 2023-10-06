@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #161616;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #0dfef8;
+}
+
+table th,
+table td {
+    padding: 8px 12px;
+    text-align: center;
+    border: 1px solid #4705ed;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #11b4f5;
+}
+
+table th {
+    background-color: #4705ed;
+    color: #fff;
+}
